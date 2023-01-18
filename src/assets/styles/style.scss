@@ -1,0 +1,12 @@
+@import './vars';
+
+// /. imports
+
+body {
+    height: 100%;
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: $dark-color;
+    background-color: $dark-color;
+}
